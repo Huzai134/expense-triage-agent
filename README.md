@@ -1,4 +1,5 @@
 # expense-triage-agent
+![Agent Workflow UI](screenshot.png)
 
 Simple ReAct agent
 Agent generated with `agents-cli` version `0.6.1`
